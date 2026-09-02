@@ -98,7 +98,7 @@ Build a beginner-friendly cybersecurity lab using virtual machines, Linux, netwo
 
 **Current milestone:** Ubuntu Server VM foundation with SSH access
 
-**Status:** In Development
+**Status:** Available
 
 ---
 
