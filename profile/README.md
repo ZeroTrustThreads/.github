@@ -83,20 +83,22 @@ Learn how HTTP security headers help protect websites and browsers.
 
 ### 🖥️ Cybersecurity Home Lab
 
-**Repository:** `ztt-home-lab`
+**Repository:** [`ztt-home-lab`](https://github.com/ZeroTrustThreads/ztt-home-lab)
 
 Build a beginner-friendly cybersecurity lab using virtual machines, Linux, networking, and containers.
 
 **You'll explore:**
 
-- Virtual machines
+- Virtual machines on macOS, Windows, and Linux
 - Ubuntu Server
 - Linux fundamentals
-- Networking
+- Networking and SSH
 - Docker
 - Safe lab environments
 
-**Status:** Planned
+**Current milestone:** Ubuntu Server VM foundation with SSH access
+
+**Status:** In Development
 
 ---
 
